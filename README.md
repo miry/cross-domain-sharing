@@ -11,3 +11,7 @@ Install
 bundle
 rackup -p 9292 config.ru
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/miry/cross-domain-sharing/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
